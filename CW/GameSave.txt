@@ -1,0 +1,11 @@
+asda
+Mage
+40
+40
+10
+10
+5
+9
+Heal
+3
+[Crit potion, Common Bow, Rare Bow]

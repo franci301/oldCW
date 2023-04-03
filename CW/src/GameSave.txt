@@ -1,0 +1,11 @@
+a
+Mage
+45
+40
+10
+10
+5
+9
+Heal
+2
+[Crit potion, Common Bow]
